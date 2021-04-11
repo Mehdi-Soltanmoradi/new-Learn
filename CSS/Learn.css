@@ -10,11 +10,6 @@ p.center2 {
     color: rgb(112, 13, 116);
 }
 
-<!--*--> {
-    text-align: center;
-    color: brown;
-}
-
 p.large {
     font-size: 150%;
 }
