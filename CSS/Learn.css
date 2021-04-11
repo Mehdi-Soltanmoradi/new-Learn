@@ -1,0 +1,39 @@
+/* This is a single-line comment */
+
+.center {
+    text-align: center;
+    color: red;
+}
+
+p.center2 {
+    text-align: center;
+    color: rgb(112, 13, 116);
+}
+
+<!--*--> {
+    text-align: center;
+    color: brown;
+}
+
+p.large {
+    font-size: 150%;
+}
+
+body {
+    background-color: lightblue;
+}
+
+#para1 {
+    text-align: center;
+    color: green;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
