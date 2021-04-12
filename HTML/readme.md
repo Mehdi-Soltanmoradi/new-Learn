@@ -1,4 +1,5 @@
 Learn Front
 -----------
-This is my project, Learn html.
+
+This is my project, Learn html
 -----------
